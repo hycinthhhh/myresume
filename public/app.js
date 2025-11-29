@@ -18,7 +18,7 @@ const ResumeWebsite = () => {
     React.createElement('nav', { className: "sticky top-0 z-50 bg-white/80 backdrop-blur-md shadow-sm" },
       React.createElement('div', { className: "max-w-6xl mx-auto px-4 py-4" },
         React.createElement('div', { className: "flex justify-between items-center" },
-          React.createElement('h1', { className: "text-2xl font-bold text-sage-800" }, 'GET TO KNOW ME MORE!'),
+          React.createElement('h1', { className: "text-2xl font-bold text-sage-800" }, 'Mabuhay!'),
           
           // Desktop Navigation
           React.createElement('div', { className: "hidden md:flex gap-2" },
